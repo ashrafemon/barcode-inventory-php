@@ -252,7 +252,7 @@ docker-compose down
 | PATCH  | `/categories/:id` | Update category     |
 | DELETE | `/categories/:id` | Delete category     |
 
-- SwaggerDocs: `http://localhost:5000/api/request-docs`
+- ApiDocs: `http://localhost:8000/api/request-docs`
 
 ---
 
