@@ -269,11 +269,9 @@ docker-compose down
 
 ## 🗃️ Resources & Links
 
-- [NestJS Docs](https://docs.nestjs.com)
-- [Next.js Docs](https://nextjs.org/docs)
+- [Laravel Docs](https://laravel.com/docs/12.x)
+- [InertiaJS Docs](https://inertiajs.com/)
 - [Mantine UI](https://mantine.dev/)
-- [Turborepo](https://turbo.build/)
-- [Prisma ORM](https://www.prisma.io/docs)
 
 ---
 
